@@ -14,6 +14,10 @@ First-person zero-gravity billiards in a sealed 3D arena.
 
 [Wishlist 3D Bumper Billiards on Steam](https://store.steampowered.com/app/4975340/3D_Bumper_Billiards/)
 
+## Support us
+
+[Support us on Patreon](https://patreon.com/PilferedParrot)
+
 ## Contact
 
 For studio, support, and security inquiries, email [pilferedparrot@gmail.com](mailto:pilferedparrot@gmail.com).
