@@ -8,13 +8,14 @@ We are an independent game studio and software workshop building unusual, tactil
 
 ## Now building
 
-### PilferedParrot Interface — stable Linux release
+### PilferedParrot Interface — Linux and Windows
 
 A local browser interface for coding CLIs and compatible model APIs. Choose your provider,
-keep Work sessions together, and open a separate read-only Chat window. Apache 2.0; Python 3.12+.
+keep Work sessions together, and open a separate read-only Chat window. Apache 2.0. Linux source
+requires Python 3.12+; the Windows 10/11 x64 preview includes Python in a portable ZIP.
 
 [See the interface and get started](https://pilferedparrot.github.io/PilferedParrot-Interface/) ·
-[Download v0.5.1](https://github.com/PilferedParrot/PilferedParrot-Interface/releases/tag/v0.5.1) ·
+[Download v0.6.0](https://github.com/PilferedParrot/PilferedParrot-Interface/releases/tag/v0.6.0) ·
 [Share first-run feedback](https://github.com/PilferedParrot/PilferedParrot-Interface/issues/new/choose)
 
 ### 3D Bumper Billiards
